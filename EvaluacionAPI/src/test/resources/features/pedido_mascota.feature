@@ -38,6 +38,6 @@ Feature: Gestion de pedido
     Examples:
       | idPedido | Detalle del pedido                       |
       | 1        | Pedido existente                         |
-      | 2        | Pedido existente                         |
+      | 3        | Pedido existente                         |
       | 55       | Pedido no existente, se espera que falle |
 
